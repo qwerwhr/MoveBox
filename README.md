@@ -6,7 +6,7 @@
 支持平台有Windows、Linux、MacOS，iOS，Android，HarmonyOS，后续推出电视版本，由于是内置的开发环境和资源
 所以数据会很大，占据空间等，也可以提出不同的建议，后续源码公开，数据开发日志也会上传<br><br>
 由于本人时间紧迫，没有收集资源的能力，现需各位开发者等以及爱好者等征集各种资源，如视频资源，
-音乐资源，书源，直播资源，可提交到Issues
+音乐资源，书源，直播资源，可提交到Issues<br><br>
 软件内置有danmu_api和drpy_node！<br><br>
 以下为开发环境的数据截图：<br><br>
 <img width="1584" height="892" alt="image" src="https://github.com/user-attachments/assets/bda31a9a-66f1-4992-8047-4de52d5940a0" /><br><br>
