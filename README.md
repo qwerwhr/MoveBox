@@ -1,5 +1,5 @@
 # MoveBox
-基于Flutter的MoveBox的VibeCoding开发的立项
+基于Flutter的MoveBox的Vibe Coding开发的立项
 
 由于市面上的视频盒子资源各种各样，有些失效等，开发本项目是基于Flutter的MoveBox的VibeCoding的项目开发<br><br>
 功能面向视频，音乐，小说，短剧，短视频，直播等，软件内置node,php,python，目前将进入开发阶段，
